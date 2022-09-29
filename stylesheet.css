@@ -1,0 +1,15 @@
+.main-image {
+   width: 50%;
+}
+
+.container {
+  padding-top:25px;
+}
+
+
+.navbar, .container {
+ font-family: 'Roboto', monospace;
+}
+
+
+
